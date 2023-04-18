@@ -1,11 +1,8 @@
-import React from 'react'
+import React from 'react';
+import { Redirect } from 'react-router-dom';
 
-const Error  = () => {
-  return (
-    <div>
-        <h1>Homepage</h1>
-    </div>
-  )
+const Error = () => {
+  return <Redirect to="/" />;
 }
 
-export default Error 
+export default Error;
