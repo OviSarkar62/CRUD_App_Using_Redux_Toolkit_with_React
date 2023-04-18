@@ -10,3 +10,14 @@ To install this app, follow these steps:
 2. Install dependencies: `npm install`
 
 3. Start the app: `npm start`
+
+## Features
+
+This app allows users to:
+
+- Create new posts
+- Read existing posts
+- Update existing posts
+- Delete existing posts
+
+To use the app, simply navigate to the home page and use the form to create new posts. Existing posts can be viewed, updated, or deleted by clicking on the respective buttons on each post.
