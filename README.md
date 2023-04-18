@@ -21,3 +21,19 @@ This app allows users to:
 - Delete existing posts
 
 To use the app, simply navigate to the home page and use the form to create new posts. Existing posts can be viewed, updated, or deleted by clicking on the respective buttons on each post.
+
+## Stacks
+
+This app was built using the following technologies:
+
+- React
+- Redux Toolkit
+
+## Code Quality
+
+This app was built using ESLint and Prettier to maintain code quality.
+
+## Live Links
+
+The live project: [CRUD APP](https://OviSarkar62.github.io/CRUD_App_Using_Redux_Toolkit_with_React)
+
