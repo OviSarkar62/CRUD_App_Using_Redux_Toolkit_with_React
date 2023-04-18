@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CRUD_App_Using_Redux_Toolkit_with_React/static/css/main.a993e34b.css",
-    "main.js": "/CRUD_App_Using_Redux_Toolkit_with_React/static/js/main.3d743cc1.js",
+    "main.js": "/CRUD_App_Using_Redux_Toolkit_with_React/static/js/main.e14e8449.js",
     "index.html": "/CRUD_App_Using_Redux_Toolkit_with_React/index.html",
     "main.a993e34b.css.map": "/CRUD_App_Using_Redux_Toolkit_with_React/static/css/main.a993e34b.css.map",
-    "main.3d743cc1.js.map": "/CRUD_App_Using_Redux_Toolkit_with_React/static/js/main.3d743cc1.js.map"
+    "main.e14e8449.js.map": "/CRUD_App_Using_Redux_Toolkit_with_React/static/js/main.e14e8449.js.map"
   },
   "entrypoints": [
     "static/css/main.a993e34b.css",
-    "static/js/main.3d743cc1.js"
+    "static/js/main.e14e8449.js"
   ]
 }
