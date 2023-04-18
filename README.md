@@ -8,7 +8,7 @@ To install this app, follow these steps:
 
 Clone the repository 
            
-    git clone https://github.com/OviSarkar62/CRUD_App_Using_Redux_Toolkit_with_React.git
+   git clone https://github.com/OviSarkar62/CRUD_App_Using_Redux_Toolkit_with_React.git
 
 Install dependencies 
              
